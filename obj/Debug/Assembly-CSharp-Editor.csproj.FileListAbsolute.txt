@@ -1,0 +1,2 @@
+/Users/abrahamfragoso/AWDM01/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+/Users/abrahamfragoso/AWDM01/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

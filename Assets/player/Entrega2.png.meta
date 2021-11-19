@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 7a6c4142a01fa4d289915e17ebe06b28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2004879268212795216
+    second: Entrega2_0
+  - first:
+      213: -9120843669804477899
+    second: Entrega2_1
+  - first:
+      213: -2379997386739558293
+    second: Entrega2_2
+  - first:
+      213: 8137637757679394268
+    second: Entrega2_3
+  - first:
+      213: -4440447004249593368
+    second: Entrega2_4
+  - first:
+      213: 262709321175846326
+    second: Entrega2_5
+  - first:
+      213: 3053630963751480345
+    second: Entrega2_6
+  - first:
+      213: -1475297566993400461
+    second: Entrega2_7
+  - first:
+      213: -91337672946289323
+    second: Entrega2_8
+  - first:
+      213: -7449432225715869255
+    second: Entrega2_9
+  - first:
+      213: 3329939298718966008
+    second: Entrega2_10
+  - first:
+      213: 1967196461456622957
+    second: Entrega2_11
+  - first:
+      213: 5815294987893483035
+    second: Entrega2_12
+  - first:
+      213: -3975554817023948058
+    second: Entrega2_13
+  - first:
+      213: 4660168678889537517
+    second: Entrega2_14
+  - first:
+      213: 4211315025152351130
+    second: Entrega2_15
+  - first:
+      213: -7517572064401554807
+    second: Entrega2_16
+  - first:
+      213: 3324141601931170362
+    second: Entrega2_17
+  - first:
+      213: -487439298192050608
+    second: Entrega2_18
+  - first:
+      213: -1343556556878189550
+    second: Entrega2_19
+  - first:
+      213: 8168610727168307572
+    second: Entrega2_20
+  - first:
+      213: -1050230498011160431
+    second: Entrega2_21
+  - first:
+      213: -4497347062810491237
+    second: Entrega2_22
+  - first:
+      213: 211106244332530176
+    second: Entrega2_23
+  - first:
+      213: 826615398640233327
+    second: Entrega2_25
+  - first:
+      213: -693642208243229190
+    second: Entrega2_26
+  - first:
+      213: 2338313698617810244
+    second: Entrega2_27
+  - first:
+      213: 1928375336758586816
+    second: Entrega2_28
+  - first:
+      213: 7945799752106455499
+    second: Entrega2_24
+  - first:
+      213: -7719023349227916069
+    second: Entrega2_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entrega2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1588
+        width: 330
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0576e577213c2db10800000000000000
+      internalID: 2004879268212795216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1596
+        width: 334
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321f61b1014c6180800000000000000
+      internalID: -9120843669804477899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1600
+        width: 336
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d70d8cfc88fed0800000000000000
+      internalID: -2379997386739558293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1603
+        width: 335
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd5941fc62bee070800000000000000
+      internalID: 8137637757679394268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_4
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1606
+        width: 331
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e961c3e9fc5062c0800000000000000
+      internalID: -4440447004249593368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_5
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1597
+        width: 285
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdced75cb455a300800000000000000
+      internalID: 262709321175846326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1127
+        width: 228
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6a85ce2da06a20800000000000000
+      internalID: 3053630963751480345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1120
+        width: 170
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d3c55eda0b68be0800000000000000
+      internalID: -1475297566993400461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1115
+        width: 144
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555fc61ded08bbef0800000000000000
+      internalID: -91337672946289323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1111
+        width: 174
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9abd70cdc4e9890800000000000000
+      internalID: -7449432225715869255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_10
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1102
+        width: 193
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e1cf3622563e20800000000000000
+      internalID: 3329939298718966008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_11
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1096
+        width: 218
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65078052c2ec4b10800000000000000
+      internalID: 1967196461456622957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_12
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1094
+        width: 242
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1620811bf314b050800000000000000
+      internalID: 5815294987893483035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1094
+        width: 262
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac13215fdf3d8c0800000000000000
+      internalID: -3975554817023948058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1096
+        width: 279
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbc9a09be3ca040800000000000000
+      internalID: 4660168678889537517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 278
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b987fe3b8917a30800000000000000
+      internalID: 4211315025152351130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 632
+        width: 271
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98202f789083ca790800000000000000
+      internalID: -7517572064401554807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 632
+        width: 260
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a329436cc29b12e20800000000000000
+      internalID: 3324141601931170362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 632
+        width: 242
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05672b57a844c39f0800000000000000
+      internalID: -487439298192050608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_19
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 634
+        width: 246
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce0a31e6aba5de0800000000000000
+      internalID: -1343556556878189550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_20
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 631
+        width: 227
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ff4d5d2cbc5170800000000000000
+      internalID: 8168610727168307572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_21
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 630
+        width: 202
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19063c92de4dc61f0800000000000000
+      internalID: -1050230498011160431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_22
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 629
+        width: 189
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c881aca63691c0800000000000000
+      internalID: -4497347062810491237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 206
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aae4fb2000ee200800000000000000
+      internalID: 211106244332530176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_25
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 157
+        width: 273
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba1d1535ab87b00800000000000000
+      internalID: 826615398640233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_26
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 160
+        width: 285
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd1703610bf56f0800000000000000
+      internalID: -693642208243229190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_27
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 154
+        width: 305
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5b838beb537020800000000000000
+      internalID: 2338313698617810244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_28
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 147
+        width: 322
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdae1dd627f2ca10800000000000000
+      internalID: 1928375336758586816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 154
+        width: 268
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc131b0a6c6254e60800000000000000
+      internalID: 7945799752106455499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrega2_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 147
+        width: 254
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f258392580e490800000000000000
+      internalID: -7719023349227916069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
